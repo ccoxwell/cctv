@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CodeCrewTV</title>
+    <link>/</link>
+    <description>Recent content on CodeCrewTV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 22:43:14 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Episode 4: Movin&#39; and Groovin&#39;</title>
+      <link>/episode/004/</link>
+      <pubDate>Wed, 20 May 2020 22:43:14 -0500</pubDate>
+      
+      <guid>/episode/004/</guid>
+      <description>Here are the links to the resources for today&amp;rsquo;s episode:  Join our Scratch class! Visit CodeCrew on Facebook, Twitter, tiktok, and Instagram! Check out YouTube&amp;rsquo;s free audio library! They&amp;rsquo;ve got all kinds of cool sounds to add to your projects. DO THE #CodeCrewChallenge!!   @_codecrew Show us your ##CodeCrewChallenge !!! Make sure to watch CodeCrew TV on SCS C19, Thursday’s 9am. ##codecrewtv ##codecrew ##memphis ##tech ##code ##foryou ##fyp</description>
+    </item>
+    
+    <item>
+      <title>Episode 3: Dancing and Debugging</title>
+      <link>/episode/003/</link>
+      <pubDate>Thu, 14 May 2020 01:41:01 -0500</pubDate>
+      
+      <guid>/episode/003/</guid>
+      <description>Here are the links to the resources for today&amp;rsquo;s episode:
+ Digital office hours are Friday, 5/15/2020 at 1 PM Central time! Add the event to your calendar or join the Google Hangout directly here! Join our Scratch class! Check out Debugging Challenge 4 and Debugging Challenge 5 and try your hand at figuring out what&amp;rsquo;s wrong with the code! Can you improve the Nyan Cat game? Visit CodeCrew on Facebook, Twitter, and Instagram!</description>
+    </item>
+    
+    <item>
+      <title>Episode 2</title>
+      <link>/episode/002/</link>
+      <pubDate>Wed, 06 May 2020 21:04:45 -0500</pubDate>
+      
+      <guid>/episode/002/</guid>
+      <description>  Join our Scratch class! Visit CodeCrew on Facebook! Check out LITE Memphis!  Here&amp;rsquo;s Ms. Coxwell&amp;rsquo;s Scratch project! Can you jazz it up?  </description>
+    </item>
+    
+    <item>
+      <title>Episode 1</title>
+      <link>/episode/001/</link>
+      <pubDate>Thu, 30 Apr 2020 00:49:35 -0500</pubDate>
+      
+      <guid>/episode/001/</guid>
+      <description>Here are the links to the resources for today&amp;rsquo;s episode:
+ Join our Scratch class! Make your own Scratch animation! Visit CodeCrew on Facebook! Watch Mr. Mahoro put together his Scratch animation!  </description>
+    </item>
+    
+  </channel>
+</rss>

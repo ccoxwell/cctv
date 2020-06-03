@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-20T22:43:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/episode/004/</loc>
+    <lastmod>2020-05-20T22:43:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/episode/</loc>
+    <lastmod>2020-05-20T22:43:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/episode/003/</loc>
+    <lastmod>2020-05-14T01:41:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/episode/002/</loc>
+    <lastmod>2020-05-06T21:04:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/episode/001/</loc>
+    <lastmod>2020-04-30T00:49:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
