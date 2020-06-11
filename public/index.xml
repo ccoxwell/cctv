@@ -6,10 +6,20 @@
     <description>Recent content on CodeCrewTV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2020 19:25:24 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 01:31:41 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 6: Funky Functions</title>
+      <link>/episode/006/</link>
+      <pubDate>Thu, 11 Jun 2020 01:31:41 -0500</pubDate>
+      
+      <guid>/episode/006/</guid>
+      <description> Remix this project and add your own spin!  Links to the resources for today&amp;rsquo;s episode:
+ Join our Scratch class! Check out the code for the maze game! Visit CodeCrew on Facebook, Twitter, and Instagram!  </description>
+    </item>
     
     <item>
       <title>Episode 5: Coding Characters</title>
